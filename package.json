@@ -1,0 +1,8 @@
+{
+  "name": "projectnova",
+  "version": "1.1.0",
+  "type": "module",
+  "description": "projectnova is hot api for testrelay between ai",
+  "private": true,
+  "license": "MIT"
+}
